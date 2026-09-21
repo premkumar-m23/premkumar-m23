@@ -55,6 +55,4 @@ VIT | May 2026 – July 2026
 - Introduction to Deep Learning
 - MongoDB
 - Cybersecurity Awareness Training
-- LinkedIn: Add your LinkedIn profile link
-- Portfolio: Add your portfolio link
-- Email: Add your professional email
+
